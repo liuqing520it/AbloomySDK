@@ -1,0 +1,6 @@
+framework module AbloomySDK {
+  umbrella header "AbloomySDK.h"
+
+  export *
+  module * { export * }
+}
